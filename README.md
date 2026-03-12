@@ -1,3 +1,3 @@
 <p align="center"> 
-  <a href=#><img width="300" src="chicken.gif"></a>
+  <a href=#><img width="300" src="dancingchicken.gif"></a>
 </p>
